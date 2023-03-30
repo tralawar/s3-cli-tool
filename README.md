@@ -107,7 +107,7 @@ cliS3 download -b bucket_name -k object_key -o output_path
 Replace bucket_name with the name of the desired S3 bucket, object_key with the key of the object you want to download, and output_path with the local file path where you want to save the downloaded object.
 
 ## Contributing
-If you'd like to contribute to the development of CLI-S3, feel free to submit a pull request or create an issue on the project's GitHub repository. We welcome any suggestions and improvements.
+If you'd like to contribute to the development of CLI-S3, feel free to submit a pull request or create an issue on the project's [GitHub repository](https://github.com/tralawar/s3-cli-tool). We welcome any suggestions and improvements.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
