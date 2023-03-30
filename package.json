@@ -1,0 +1,28 @@
+{
+  "name": "s3-cli-tool",
+  "version": "1.0.1",
+  "description": "A simple S3 CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "s3",
+    "aws",
+    "cli",
+    "tool"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1346.0",
+    "dotenv": "^16.0.3",
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.10"
+  },
+  "bin": {
+    "cliS3": "index.js"
+  }
+}
